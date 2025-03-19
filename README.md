@@ -1,5 +1,6 @@
 # Hi 👋, I'm Vishakha
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=FF5733&center=false&vCenter=false&repeat=true&width=435&lines=Hi+I'm+a+Full+Stack+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=FF5733&center=false&vCenter=false&repeat=true&width=435&lines=I'm+a+Full+Stack;Web+Developer" alt="Typing SVG" />
+
 
 ![0](https://github.com/user-attachments/assets/748b93a8-d8e3-4b5c-a20e-5ae5c01cc65b)
 
