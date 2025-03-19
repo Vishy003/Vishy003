@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vishakha
-![0](https://github.com/user-attachments/assets/a9437216-b05c-4372-959a-88faad0ab299)
+
 
 🔭 I’m currently working on Deep Learning 🧠, NLP research 📚, AI & Data Structures coursework 💻.<br>🤝 I’m looking to collaborate on AI 🤖, ML 📊, DL 🏆, NLP 💬, open-source 🌍, tech writing ✍️.<br>🌱 I’m currently learning: Deep Learning 🧠, NLP 💬, Business Intelligence 📊.<br>💬 Ask me about: NLP 💬, Deep Learning 🏆, Business Intelligence 📈.<br>⚡ Fun fact: I play the electronic keyboard 🎹 and love music 🎶.
 
