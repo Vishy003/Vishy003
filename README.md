@@ -5,7 +5,12 @@
 
 ![0](https://github.com/user-attachments/assets/748b93a8-d8e3-4b5c-a20e-5ae5c01cc65b)
 
-🔭 I’m currently working on Deep Learning 🧠, NLP research 📚, AI & Data Structures coursework 💻.<br>🤝 I’m looking to collaborate on AI 🤖, ML 📊, DL 🏆, NLP 💬, open-source 🌍, tech writing ✍️.<br>🌱 I’m currently learning: Deep Learning 🧠, NLP 💬, Business Intelligence 📊.<br>💬 Ask me about: NLP 💬, Deep Learning 🏆, Business Intelligence 📈.<br>⚡ Fun fact: I play the electronic keyboard 🎹 and love music 🎶.
+🔭 I’m currently working on AI 🤖, Algorithms 📘, and Advanced Programming & Problem Solving (APPS) 💻.<br>
+🤝 I’m looking to collaborate on AI 🤖, ML 📊, DL 🧠, Data Science 📈, open-source 🌍, and tech writing ✍️.<br>
+🌱 I’m currently working with: Algorithms 📘, APPS 💻, AI 🤖, ML 📊, and Business Intelligence 📊.<br>
+💬 Ask me about: Machine Learning 📊, Deep Learning 🏆, and Business Intelligence 📈.<br>
+⚡ Fun fact: I play the electronic keyboard 🎹 and love music 🎶.
+
 
 
 ## 🌐 Socials:
