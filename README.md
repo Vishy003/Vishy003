@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on AI 🤖, Algorithms 📘, and Advanced Programming & Problem Solving (APPS) 💻.<br>
 🤝 I’m looking to collaborate on AI 🤖, ML 📊, DL 🧠, Data Science 📈, open-source 🌍, and tech writing ✍️.<br>
-🌱 I’m currently working with: Algorithms 📘, APPS 💻, AI 🤖, ML 📊, and Business Intelligence 📊.<br>
+🌱 Focused on: Algorithms, APPS, AI, ML, and Data Science 📊.<br>
 💬 Ask me about: Machine Learning 📊, Deep Learning 🏆, and Business Intelligence 📈.<br>
 ⚡ Fun fact: I play the electronic keyboard 🎹 and love music 🎶.
 
